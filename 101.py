@@ -1,4 +1,4 @@
-# Eric Soto-Hall
+# Eric
 # Assignment 10.1: Your Own Class
 # 101.py
 # Create a class
